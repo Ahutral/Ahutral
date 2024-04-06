@@ -1,4 +1,29 @@
-### **Hi there** 👋
+# Hello, I'm Felipe San Martín
+## I'm a Junior _**Full Stack Developer**_
+
+### **My Developer Stcack**
+1. HTML
+2. CSS
+3. JavaScript
+4. React
+5. VueJs
+6. .Net
+
+|_**comandos**_ | _**descripción**_ |
+|--------|-----------|
+|ls      | listado| 
+|cd      | placeholder|
+|pwd     | ubicación|
+|date    | hora y fecha|
+|cal     | calendario
+
+
+
+
+
+
+
+
 
 <!--
 **Ahutral/Ahutral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
